@@ -1,0 +1,18 @@
+/* variables.css */
+:root {
+  --bg: #0f172a;
+  --dark: #020617;
+  --accent: #34d399;
+  --text: #e5e7eb;
+  --muted: #9ca3af;
+  --brand-gradient: linear-gradient(135deg, #34d399, #22d3ee, #818cf8);
+}
+
+body.light {
+  --bg: #f9fafb;
+  --dark: #ffffff;
+  --text: #020617;
+  --muted: #4b5563;
+}
+
+
